@@ -33,3 +33,14 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+Create a .env file:
+
+HF_TOKEN=your_token_here
+
+Run:
+
+python app.py
+
+5. Scroll down.
+6. Click **Commit changes**.
+
